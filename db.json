@@ -1,32 +1,82 @@
-[
+{
+  "user": [
     {
-      "id": 1,
-      "name": "Lion",
-      "age": 32,
-      "type": "Carnivorer",
-      "national parks": [
-        "Nairobi",
-        "Serengeti"
-      ]
+      "id": "1",
+      "name": "Dr. Németh Tamás",
+      "email": "tomuwhu@gmail.com",
+      "pw": "123"
     },
     {
-      "id": 2,
-      "name": "Elephant",
-      "age": 20,
-      "type": "Herbivorers",
-      "national parks": [
-        "Nairobi",
-        "Massai Mara"
-      ]
+      "id": "2",
+      "name": "Borbola Patrik",
+      "email": "borbolapatrik@gmail.com",
+      "pw": "1234"
     },
     {
-      "name": "Hyena",
-      "age": 10,
-      "type": "Carnivorer",
-      "national parks": [
-        "Nairobi",
-        "Serengeti"
-      ],
-      "id": 3
+      "id": "027f",
+      "name": "Gugán András",
+      "email": "gugandas@gmail.com",
+      "pw": "12345"
+    },
+    {
+      "id": "8a83",
+      "name": "Kiss Béla",
+      "email": "kissb12@gmail.com",
+      "pw": "123"
+    }
+  ],
+  "car": [
+    {
+      "id": "1",
+      "brand": "Ford",
+      "type": "Mustang",
+      "year": "1964",
+      "price": "20000",
+      "stars": "4",
+      "tulaj": "1"
+    },
+    {
+      "id": "2",
+      "brand": "Chevrolet",
+      "type": "Camaro",
+      "year": "1969",
+      "price": "25000",
+      "stars": "5",
+      "tulaj": "2"
+    },
+    {
+      "id": "3",
+      "brand": "Nissan",
+      "type": "Skyline",
+      "year": "1972",
+      "price": "30000",
+      "stars": "3"
+    },
+    {
+      "id": "4",
+      "brand": "Toyota",
+      "type": "Supra",
+      "year": "1999",
+      "price": "40000",
+      "stars": "2"
+    },
+    {
+      "id": "e0db",
+      "brand": "Skoda",
+      "type": "Octavia",
+      "year": 2015,
+      "price": 2000,
+      "stars": 5,
+      "tulaj": "8a83"
+    },
+    {
+      "id": "15c0",
+      "brand": "Peugeot",
+      "type": "207",
+      "year": 2009,
+      "price": 1500,
+      "stars": 4,
+      "tulaj": "8a83"
     }
   ]
+}
